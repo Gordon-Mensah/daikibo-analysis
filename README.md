@@ -1,7 +1,3 @@
-Absolutely, Gordon — here’s a polished and professional version of your README that clearly explains the purpose, contents, and structure of your Daikibo analysis project:
-
----
-
 ## 📊 Daikibo Industrials Analysis
 
 This repository contains two analytical tasks conducted for **Daikibo Industrials**, aimed at uncovering operational inefficiencies and workplace equity concerns across their global factory network.
@@ -67,6 +63,3 @@ The updated table highlights roles and locations with significant pay disparitie
 
 For questions or collaboration, feel free to reach out via GitHub or email.
 
----
-
-Let me know if you’d like to add a license, contributor section, or link to Tableau Public if you publish the dashboard. I can help you polish it even further.
