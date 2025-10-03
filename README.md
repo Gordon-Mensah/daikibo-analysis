@@ -17,8 +17,8 @@ Daikibo operates multiple factories across Japan, Germany, and China. This proje
 
 | File Name                          | Description |
 |-----------------------------------|-------------|
-| `Task4_Telemetry_Dashboard.png`   | Screenshot of Tableau dashboard showing machine downtime per factory and device type. |
-| `Task5_Equality_Table.xlsx`       | Edited Excel file with a new column classifying job roles by fairness of pay. |
+| `Daikibo-Telemetry-Dashboard.png`   | Screenshot of Tableau dashboard showing machine downtime per factory and device type. |
+| `Updated_Task5_Equality_Table.xlsx`       | Edited Excel file with a new column classifying job roles by fairness of pay. |
 
 ---
 
